@@ -1,0 +1,1682 @@
+[
+  {
+    "qid": "easy_0",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit Part 0 teach at?",
+    "gold_answer": "Oxford University branch 0",
+    "context": [
+      {
+        "title": "Author of The Hobbit Part 0",
+        "text": "The author of The Hobbit Part 0 was a professor at Oxford University branch 0."
+      },
+      {
+        "title": "Oxford University branch 0",
+        "text": "Oxford University branch 0 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_1",
+    "difficulty": "easy",
+    "question": "Which university did the author of 1984 Part 1 teach at?",
+    "gold_answer": "Cambridge branch 1",
+    "context": [
+      {
+        "title": "Author of 1984 Part 1",
+        "text": "The author of 1984 Part 1 was a professor at Cambridge branch 1."
+      },
+      {
+        "title": "Cambridge branch 1",
+        "text": "Cambridge branch 1 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_2",
+    "difficulty": "easy",
+    "question": "Which university did the author of Dune Part 2 teach at?",
+    "gold_answer": "Harvard branch 2",
+    "context": [
+      {
+        "title": "Author of Dune Part 2",
+        "text": "The author of Dune Part 2 was a professor at Harvard branch 2."
+      },
+      {
+        "title": "Harvard branch 2",
+        "text": "Harvard branch 2 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_3",
+    "difficulty": "easy",
+    "question": "Which university did the author of Foundation Part 3 teach at?",
+    "gold_answer": "MIT branch 3",
+    "context": [
+      {
+        "title": "Author of Foundation Part 3",
+        "text": "The author of Foundation Part 3 was a professor at MIT branch 3."
+      },
+      {
+        "title": "MIT branch 3",
+        "text": "MIT branch 3 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_4",
+    "difficulty": "easy",
+    "question": "Which university did the author of Harry Potter Part 4 teach at?",
+    "gold_answer": "Stanford branch 4",
+    "context": [
+      {
+        "title": "Author of Harry Potter Part 4",
+        "text": "The author of Harry Potter Part 4 was a professor at Stanford branch 4."
+      },
+      {
+        "title": "Stanford branch 4",
+        "text": "Stanford branch 4 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_5",
+    "difficulty": "easy",
+    "question": "Which university did the author of Twilight Part 5 teach at?",
+    "gold_answer": "Yale branch 5",
+    "context": [
+      {
+        "title": "Author of Twilight Part 5",
+        "text": "The author of Twilight Part 5 was a professor at Yale branch 5."
+      },
+      {
+        "title": "Yale branch 5",
+        "text": "Yale branch 5 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_6",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Great Gatsby Part 6 teach at?",
+    "gold_answer": "Princeton branch 6",
+    "context": [
+      {
+        "title": "Author of The Great Gatsby Part 6",
+        "text": "The author of The Great Gatsby Part 6 was a professor at Princeton branch 6."
+      },
+      {
+        "title": "Princeton branch 6",
+        "text": "Princeton branch 6 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_7",
+    "difficulty": "easy",
+    "question": "Which university did the author of Moby Dick Part 7 teach at?",
+    "gold_answer": "Columbia branch 7",
+    "context": [
+      {
+        "title": "Author of Moby Dick Part 7",
+        "text": "The author of Moby Dick Part 7 was a professor at Columbia branch 7."
+      },
+      {
+        "title": "Columbia branch 7",
+        "text": "Columbia branch 7 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_8",
+    "difficulty": "easy",
+    "question": "Which university did the author of To Kill a Mockingbird Part 8 teach at?",
+    "gold_answer": "Cornell branch 8",
+    "context": [
+      {
+        "title": "Author of To Kill a Mockingbird Part 8",
+        "text": "The author of To Kill a Mockingbird Part 8 was a professor at Cornell branch 8."
+      },
+      {
+        "title": "Cornell branch 8",
+        "text": "Cornell branch 8 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_9",
+    "difficulty": "easy",
+    "question": "Which university did the author of Pride and Prejudice Part 9 teach at?",
+    "gold_answer": "Brown branch 9",
+    "context": [
+      {
+        "title": "Author of Pride and Prejudice Part 9",
+        "text": "The author of Pride and Prejudice Part 9 was a professor at Brown branch 9."
+      },
+      {
+        "title": "Brown branch 9",
+        "text": "Brown branch 9 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_10",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit Part 10 teach at?",
+    "gold_answer": "Oxford University branch 10",
+    "context": [
+      {
+        "title": "Author of The Hobbit Part 10",
+        "text": "The author of The Hobbit Part 10 was a professor at Oxford University branch 10."
+      },
+      {
+        "title": "Oxford University branch 10",
+        "text": "Oxford University branch 10 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_11",
+    "difficulty": "easy",
+    "question": "Which university did the author of 1984 Part 11 teach at?",
+    "gold_answer": "Cambridge branch 11",
+    "context": [
+      {
+        "title": "Author of 1984 Part 11",
+        "text": "The author of 1984 Part 11 was a professor at Cambridge branch 11."
+      },
+      {
+        "title": "Cambridge branch 11",
+        "text": "Cambridge branch 11 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_12",
+    "difficulty": "easy",
+    "question": "Which university did the author of Dune Part 12 teach at?",
+    "gold_answer": "Harvard branch 12",
+    "context": [
+      {
+        "title": "Author of Dune Part 12",
+        "text": "The author of Dune Part 12 was a professor at Harvard branch 12."
+      },
+      {
+        "title": "Harvard branch 12",
+        "text": "Harvard branch 12 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_13",
+    "difficulty": "easy",
+    "question": "Which university did the author of Foundation Part 13 teach at?",
+    "gold_answer": "MIT branch 13",
+    "context": [
+      {
+        "title": "Author of Foundation Part 13",
+        "text": "The author of Foundation Part 13 was a professor at MIT branch 13."
+      },
+      {
+        "title": "MIT branch 13",
+        "text": "MIT branch 13 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_14",
+    "difficulty": "easy",
+    "question": "Which university did the author of Harry Potter Part 14 teach at?",
+    "gold_answer": "Stanford branch 14",
+    "context": [
+      {
+        "title": "Author of Harry Potter Part 14",
+        "text": "The author of Harry Potter Part 14 was a professor at Stanford branch 14."
+      },
+      {
+        "title": "Stanford branch 14",
+        "text": "Stanford branch 14 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_15",
+    "difficulty": "easy",
+    "question": "Which university did the author of Twilight Part 15 teach at?",
+    "gold_answer": "Yale branch 15",
+    "context": [
+      {
+        "title": "Author of Twilight Part 15",
+        "text": "The author of Twilight Part 15 was a professor at Yale branch 15."
+      },
+      {
+        "title": "Yale branch 15",
+        "text": "Yale branch 15 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_16",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Great Gatsby Part 16 teach at?",
+    "gold_answer": "Princeton branch 16",
+    "context": [
+      {
+        "title": "Author of The Great Gatsby Part 16",
+        "text": "The author of The Great Gatsby Part 16 was a professor at Princeton branch 16."
+      },
+      {
+        "title": "Princeton branch 16",
+        "text": "Princeton branch 16 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_17",
+    "difficulty": "easy",
+    "question": "Which university did the author of Moby Dick Part 17 teach at?",
+    "gold_answer": "Columbia branch 17",
+    "context": [
+      {
+        "title": "Author of Moby Dick Part 17",
+        "text": "The author of Moby Dick Part 17 was a professor at Columbia branch 17."
+      },
+      {
+        "title": "Columbia branch 17",
+        "text": "Columbia branch 17 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_18",
+    "difficulty": "easy",
+    "question": "Which university did the author of To Kill a Mockingbird Part 18 teach at?",
+    "gold_answer": "Cornell branch 18",
+    "context": [
+      {
+        "title": "Author of To Kill a Mockingbird Part 18",
+        "text": "The author of To Kill a Mockingbird Part 18 was a professor at Cornell branch 18."
+      },
+      {
+        "title": "Cornell branch 18",
+        "text": "Cornell branch 18 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_19",
+    "difficulty": "easy",
+    "question": "Which university did the author of Pride and Prejudice Part 19 teach at?",
+    "gold_answer": "Brown branch 19",
+    "context": [
+      {
+        "title": "Author of Pride and Prejudice Part 19",
+        "text": "The author of Pride and Prejudice Part 19 was a professor at Brown branch 19."
+      },
+      {
+        "title": "Brown branch 19",
+        "text": "Brown branch 19 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_20",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit Part 20 teach at?",
+    "gold_answer": "Oxford University branch 20",
+    "context": [
+      {
+        "title": "Author of The Hobbit Part 20",
+        "text": "The author of The Hobbit Part 20 was a professor at Oxford University branch 20."
+      },
+      {
+        "title": "Oxford University branch 20",
+        "text": "Oxford University branch 20 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_21",
+    "difficulty": "easy",
+    "question": "Which university did the author of 1984 Part 21 teach at?",
+    "gold_answer": "Cambridge branch 21",
+    "context": [
+      {
+        "title": "Author of 1984 Part 21",
+        "text": "The author of 1984 Part 21 was a professor at Cambridge branch 21."
+      },
+      {
+        "title": "Cambridge branch 21",
+        "text": "Cambridge branch 21 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_22",
+    "difficulty": "easy",
+    "question": "Which university did the author of Dune Part 22 teach at?",
+    "gold_answer": "Harvard branch 22",
+    "context": [
+      {
+        "title": "Author of Dune Part 22",
+        "text": "The author of Dune Part 22 was a professor at Harvard branch 22."
+      },
+      {
+        "title": "Harvard branch 22",
+        "text": "Harvard branch 22 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_23",
+    "difficulty": "easy",
+    "question": "Which university did the author of Foundation Part 23 teach at?",
+    "gold_answer": "MIT branch 23",
+    "context": [
+      {
+        "title": "Author of Foundation Part 23",
+        "text": "The author of Foundation Part 23 was a professor at MIT branch 23."
+      },
+      {
+        "title": "MIT branch 23",
+        "text": "MIT branch 23 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_24",
+    "difficulty": "easy",
+    "question": "Which university did the author of Harry Potter Part 24 teach at?",
+    "gold_answer": "Stanford branch 24",
+    "context": [
+      {
+        "title": "Author of Harry Potter Part 24",
+        "text": "The author of Harry Potter Part 24 was a professor at Stanford branch 24."
+      },
+      {
+        "title": "Stanford branch 24",
+        "text": "Stanford branch 24 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_25",
+    "difficulty": "easy",
+    "question": "Which university did the author of Twilight Part 25 teach at?",
+    "gold_answer": "Yale branch 25",
+    "context": [
+      {
+        "title": "Author of Twilight Part 25",
+        "text": "The author of Twilight Part 25 was a professor at Yale branch 25."
+      },
+      {
+        "title": "Yale branch 25",
+        "text": "Yale branch 25 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_26",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Great Gatsby Part 26 teach at?",
+    "gold_answer": "Princeton branch 26",
+    "context": [
+      {
+        "title": "Author of The Great Gatsby Part 26",
+        "text": "The author of The Great Gatsby Part 26 was a professor at Princeton branch 26."
+      },
+      {
+        "title": "Princeton branch 26",
+        "text": "Princeton branch 26 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_27",
+    "difficulty": "easy",
+    "question": "Which university did the author of Moby Dick Part 27 teach at?",
+    "gold_answer": "Columbia branch 27",
+    "context": [
+      {
+        "title": "Author of Moby Dick Part 27",
+        "text": "The author of Moby Dick Part 27 was a professor at Columbia branch 27."
+      },
+      {
+        "title": "Columbia branch 27",
+        "text": "Columbia branch 27 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_28",
+    "difficulty": "easy",
+    "question": "Which university did the author of To Kill a Mockingbird Part 28 teach at?",
+    "gold_answer": "Cornell branch 28",
+    "context": [
+      {
+        "title": "Author of To Kill a Mockingbird Part 28",
+        "text": "The author of To Kill a Mockingbird Part 28 was a professor at Cornell branch 28."
+      },
+      {
+        "title": "Cornell branch 28",
+        "text": "Cornell branch 28 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "easy_29",
+    "difficulty": "easy",
+    "question": "Which university did the author of Pride and Prejudice Part 29 teach at?",
+    "gold_answer": "Brown branch 29",
+    "context": [
+      {
+        "title": "Author of Pride and Prejudice Part 29",
+        "text": "The author of Pride and Prejudice Part 29 was a professor at Brown branch 29."
+      },
+      {
+        "title": "Brown branch 29",
+        "text": "Brown branch 29 is a great university."
+      }
+    ]
+  },
+  {
+    "qid": "med_0",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_0 was born?",
+    "gold_answer": "Thames",
+    "context": [
+      {
+        "title": "Person_0",
+        "text": "Person_0 was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is crossed by the Thames."
+      }
+    ]
+  },
+  {
+    "qid": "med_1",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_1 was born?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Person_1",
+        "text": "Person_1 was born in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is crossed by the Seine."
+      }
+    ]
+  },
+  {
+    "qid": "med_2",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_2 was born?",
+    "gold_answer": "Spree",
+    "context": [
+      {
+        "title": "Person_2",
+        "text": "Person_2 was born in Berlin."
+      },
+      {
+        "title": "Berlin",
+        "text": "Berlin is crossed by the Spree."
+      }
+    ]
+  },
+  {
+    "qid": "med_3",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_3 was born?",
+    "gold_answer": "Sumida",
+    "context": [
+      {
+        "title": "Person_3",
+        "text": "Person_3 was born in Tokyo."
+      },
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is crossed by the Sumida."
+      }
+    ]
+  },
+  {
+    "qid": "med_4",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_4 was born?",
+    "gold_answer": "Hudson",
+    "context": [
+      {
+        "title": "Person_4",
+        "text": "Person_4 was born in New York."
+      },
+      {
+        "title": "New York",
+        "text": "New York is crossed by the Hudson."
+      }
+    ]
+  },
+  {
+    "qid": "med_5",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_5 was born?",
+    "gold_answer": "Yongding",
+    "context": [
+      {
+        "title": "Person_5",
+        "text": "Person_5 was born in Beijing."
+      },
+      {
+        "title": "Beijing",
+        "text": "Beijing is crossed by the Yongding."
+      }
+    ]
+  },
+  {
+    "qid": "med_6",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_6 was born?",
+    "gold_answer": "Han",
+    "context": [
+      {
+        "title": "Person_6",
+        "text": "Person_6 was born in Seoul."
+      },
+      {
+        "title": "Seoul",
+        "text": "Seoul is crossed by the Han."
+      }
+    ]
+  },
+  {
+    "qid": "med_7",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_7 was born?",
+    "gold_answer": "Red River",
+    "context": [
+      {
+        "title": "Person_7",
+        "text": "Person_7 was born in Hanoi."
+      },
+      {
+        "title": "Hanoi",
+        "text": "Hanoi is crossed by the Red River."
+      }
+    ]
+  },
+  {
+    "qid": "med_8",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_8 was born?",
+    "gold_answer": "Tiber",
+    "context": [
+      {
+        "title": "Person_8",
+        "text": "Person_8 was born in Rome."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is crossed by the Tiber."
+      }
+    ]
+  },
+  {
+    "qid": "med_9",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_9 was born?",
+    "gold_answer": "Manzanares",
+    "context": [
+      {
+        "title": "Person_9",
+        "text": "Person_9 was born in Madrid."
+      },
+      {
+        "title": "Madrid",
+        "text": "Madrid is crossed by the Manzanares."
+      }
+    ]
+  },
+  {
+    "qid": "med_10",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_10 was born?",
+    "gold_answer": "Thames",
+    "context": [
+      {
+        "title": "Person_10",
+        "text": "Person_10 was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is crossed by the Thames."
+      }
+    ]
+  },
+  {
+    "qid": "med_11",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_11 was born?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Person_11",
+        "text": "Person_11 was born in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is crossed by the Seine."
+      }
+    ]
+  },
+  {
+    "qid": "med_12",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_12 was born?",
+    "gold_answer": "Spree",
+    "context": [
+      {
+        "title": "Person_12",
+        "text": "Person_12 was born in Berlin."
+      },
+      {
+        "title": "Berlin",
+        "text": "Berlin is crossed by the Spree."
+      }
+    ]
+  },
+  {
+    "qid": "med_13",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_13 was born?",
+    "gold_answer": "Sumida",
+    "context": [
+      {
+        "title": "Person_13",
+        "text": "Person_13 was born in Tokyo."
+      },
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is crossed by the Sumida."
+      }
+    ]
+  },
+  {
+    "qid": "med_14",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_14 was born?",
+    "gold_answer": "Hudson",
+    "context": [
+      {
+        "title": "Person_14",
+        "text": "Person_14 was born in New York."
+      },
+      {
+        "title": "New York",
+        "text": "New York is crossed by the Hudson."
+      }
+    ]
+  },
+  {
+    "qid": "med_15",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_15 was born?",
+    "gold_answer": "Yongding",
+    "context": [
+      {
+        "title": "Person_15",
+        "text": "Person_15 was born in Beijing."
+      },
+      {
+        "title": "Beijing",
+        "text": "Beijing is crossed by the Yongding."
+      }
+    ]
+  },
+  {
+    "qid": "med_16",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_16 was born?",
+    "gold_answer": "Han",
+    "context": [
+      {
+        "title": "Person_16",
+        "text": "Person_16 was born in Seoul."
+      },
+      {
+        "title": "Seoul",
+        "text": "Seoul is crossed by the Han."
+      }
+    ]
+  },
+  {
+    "qid": "med_17",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_17 was born?",
+    "gold_answer": "Red River",
+    "context": [
+      {
+        "title": "Person_17",
+        "text": "Person_17 was born in Hanoi."
+      },
+      {
+        "title": "Hanoi",
+        "text": "Hanoi is crossed by the Red River."
+      }
+    ]
+  },
+  {
+    "qid": "med_18",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_18 was born?",
+    "gold_answer": "Tiber",
+    "context": [
+      {
+        "title": "Person_18",
+        "text": "Person_18 was born in Rome."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is crossed by the Tiber."
+      }
+    ]
+  },
+  {
+    "qid": "med_19",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_19 was born?",
+    "gold_answer": "Manzanares",
+    "context": [
+      {
+        "title": "Person_19",
+        "text": "Person_19 was born in Madrid."
+      },
+      {
+        "title": "Madrid",
+        "text": "Madrid is crossed by the Manzanares."
+      }
+    ]
+  },
+  {
+    "qid": "med_20",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_20 was born?",
+    "gold_answer": "Thames",
+    "context": [
+      {
+        "title": "Person_20",
+        "text": "Person_20 was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is crossed by the Thames."
+      }
+    ]
+  },
+  {
+    "qid": "med_21",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_21 was born?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Person_21",
+        "text": "Person_21 was born in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is crossed by the Seine."
+      }
+    ]
+  },
+  {
+    "qid": "med_22",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_22 was born?",
+    "gold_answer": "Spree",
+    "context": [
+      {
+        "title": "Person_22",
+        "text": "Person_22 was born in Berlin."
+      },
+      {
+        "title": "Berlin",
+        "text": "Berlin is crossed by the Spree."
+      }
+    ]
+  },
+  {
+    "qid": "med_23",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_23 was born?",
+    "gold_answer": "Sumida",
+    "context": [
+      {
+        "title": "Person_23",
+        "text": "Person_23 was born in Tokyo."
+      },
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is crossed by the Sumida."
+      }
+    ]
+  },
+  {
+    "qid": "med_24",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_24 was born?",
+    "gold_answer": "Hudson",
+    "context": [
+      {
+        "title": "Person_24",
+        "text": "Person_24 was born in New York."
+      },
+      {
+        "title": "New York",
+        "text": "New York is crossed by the Hudson."
+      }
+    ]
+  },
+  {
+    "qid": "med_25",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_25 was born?",
+    "gold_answer": "Yongding",
+    "context": [
+      {
+        "title": "Person_25",
+        "text": "Person_25 was born in Beijing."
+      },
+      {
+        "title": "Beijing",
+        "text": "Beijing is crossed by the Yongding."
+      }
+    ]
+  },
+  {
+    "qid": "med_26",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_26 was born?",
+    "gold_answer": "Han",
+    "context": [
+      {
+        "title": "Person_26",
+        "text": "Person_26 was born in Seoul."
+      },
+      {
+        "title": "Seoul",
+        "text": "Seoul is crossed by the Han."
+      }
+    ]
+  },
+  {
+    "qid": "med_27",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_27 was born?",
+    "gold_answer": "Red River",
+    "context": [
+      {
+        "title": "Person_27",
+        "text": "Person_27 was born in Hanoi."
+      },
+      {
+        "title": "Hanoi",
+        "text": "Hanoi is crossed by the Red River."
+      }
+    ]
+  },
+  {
+    "qid": "med_28",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_28 was born?",
+    "gold_answer": "Tiber",
+    "context": [
+      {
+        "title": "Person_28",
+        "text": "Person_28 was born in Rome."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is crossed by the Tiber."
+      }
+    ]
+  },
+  {
+    "qid": "med_29",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_29 was born?",
+    "gold_answer": "Manzanares",
+    "context": [
+      {
+        "title": "Person_29",
+        "text": "Person_29 was born in Madrid."
+      },
+      {
+        "title": "Madrid",
+        "text": "Madrid is crossed by the Manzanares."
+      }
+    ]
+  },
+  {
+    "qid": "med_30",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_30 was born?",
+    "gold_answer": "Thames",
+    "context": [
+      {
+        "title": "Person_30",
+        "text": "Person_30 was born in London."
+      },
+      {
+        "title": "London",
+        "text": "London is crossed by the Thames."
+      }
+    ]
+  },
+  {
+    "qid": "med_31",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_31 was born?",
+    "gold_answer": "Seine",
+    "context": [
+      {
+        "title": "Person_31",
+        "text": "Person_31 was born in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is crossed by the Seine."
+      }
+    ]
+  },
+  {
+    "qid": "med_32",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_32 was born?",
+    "gold_answer": "Spree",
+    "context": [
+      {
+        "title": "Person_32",
+        "text": "Person_32 was born in Berlin."
+      },
+      {
+        "title": "Berlin",
+        "text": "Berlin is crossed by the Spree."
+      }
+    ]
+  },
+  {
+    "qid": "med_33",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_33 was born?",
+    "gold_answer": "Sumida",
+    "context": [
+      {
+        "title": "Person_33",
+        "text": "Person_33 was born in Tokyo."
+      },
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is crossed by the Sumida."
+      }
+    ]
+  },
+  {
+    "qid": "med_34",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_34 was born?",
+    "gold_answer": "Hudson",
+    "context": [
+      {
+        "title": "Person_34",
+        "text": "Person_34 was born in New York."
+      },
+      {
+        "title": "New York",
+        "text": "New York is crossed by the Hudson."
+      }
+    ]
+  },
+  {
+    "qid": "med_35",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_35 was born?",
+    "gold_answer": "Yongding",
+    "context": [
+      {
+        "title": "Person_35",
+        "text": "Person_35 was born in Beijing."
+      },
+      {
+        "title": "Beijing",
+        "text": "Beijing is crossed by the Yongding."
+      }
+    ]
+  },
+  {
+    "qid": "med_36",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_36 was born?",
+    "gold_answer": "Han",
+    "context": [
+      {
+        "title": "Person_36",
+        "text": "Person_36 was born in Seoul."
+      },
+      {
+        "title": "Seoul",
+        "text": "Seoul is crossed by the Han."
+      }
+    ]
+  },
+  {
+    "qid": "med_37",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_37 was born?",
+    "gold_answer": "Red River",
+    "context": [
+      {
+        "title": "Person_37",
+        "text": "Person_37 was born in Hanoi."
+      },
+      {
+        "title": "Hanoi",
+        "text": "Hanoi is crossed by the Red River."
+      }
+    ]
+  },
+  {
+    "qid": "med_38",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_38 was born?",
+    "gold_answer": "Tiber",
+    "context": [
+      {
+        "title": "Person_38",
+        "text": "Person_38 was born in Rome."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is crossed by the Tiber."
+      }
+    ]
+  },
+  {
+    "qid": "med_39",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Person_39 was born?",
+    "gold_answer": "Manzanares",
+    "context": [
+      {
+        "title": "Person_39",
+        "text": "Person_39 was born in Madrid."
+      },
+      {
+        "title": "Madrid",
+        "text": "Madrid is crossed by the Manzanares."
+      }
+    ]
+  },
+  {
+    "qid": "yn_0",
+    "difficulty": "medium",
+    "question": "Does Actor_0 share the same birthplace as Actress_0?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Actor_0",
+        "text": "Actor_0 was born in CityA."
+      },
+      {
+        "title": "Actress_0",
+        "text": "Actress_0 was born in CityA."
+      }
+    ]
+  },
+  {
+    "qid": "yn_1",
+    "difficulty": "medium",
+    "question": "Does Actor_1 share the same birthplace as Actress_1?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Actor_1",
+        "text": "Actor_1 was born in CityA."
+      },
+      {
+        "title": "Actress_1",
+        "text": "Actress_1 was born in CityB."
+      }
+    ]
+  },
+  {
+    "qid": "yn_2",
+    "difficulty": "medium",
+    "question": "Does Actor_2 share the same birthplace as Actress_2?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Actor_2",
+        "text": "Actor_2 was born in CityA."
+      },
+      {
+        "title": "Actress_2",
+        "text": "Actress_2 was born in CityA."
+      }
+    ]
+  },
+  {
+    "qid": "yn_3",
+    "difficulty": "medium",
+    "question": "Does Actor_3 share the same birthplace as Actress_3?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Actor_3",
+        "text": "Actor_3 was born in CityA."
+      },
+      {
+        "title": "Actress_3",
+        "text": "Actress_3 was born in CityB."
+      }
+    ]
+  },
+  {
+    "qid": "yn_4",
+    "difficulty": "medium",
+    "question": "Does Actor_4 share the same birthplace as Actress_4?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Actor_4",
+        "text": "Actor_4 was born in CityA."
+      },
+      {
+        "title": "Actress_4",
+        "text": "Actress_4 was born in CityA."
+      }
+    ]
+  },
+  {
+    "qid": "yn_5",
+    "difficulty": "medium",
+    "question": "Does Actor_5 share the same birthplace as Actress_5?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Actor_5",
+        "text": "Actor_5 was born in CityA."
+      },
+      {
+        "title": "Actress_5",
+        "text": "Actress_5 was born in CityB."
+      }
+    ]
+  },
+  {
+    "qid": "yn_6",
+    "difficulty": "medium",
+    "question": "Does Actor_6 share the same birthplace as Actress_6?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Actor_6",
+        "text": "Actor_6 was born in CityA."
+      },
+      {
+        "title": "Actress_6",
+        "text": "Actress_6 was born in CityA."
+      }
+    ]
+  },
+  {
+    "qid": "yn_7",
+    "difficulty": "medium",
+    "question": "Does Actor_7 share the same birthplace as Actress_7?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Actor_7",
+        "text": "Actor_7 was born in CityA."
+      },
+      {
+        "title": "Actress_7",
+        "text": "Actress_7 was born in CityB."
+      }
+    ]
+  },
+  {
+    "qid": "yn_8",
+    "difficulty": "medium",
+    "question": "Does Actor_8 share the same birthplace as Actress_8?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Actor_8",
+        "text": "Actor_8 was born in CityA."
+      },
+      {
+        "title": "Actress_8",
+        "text": "Actress_8 was born in CityA."
+      }
+    ]
+  },
+  {
+    "qid": "yn_9",
+    "difficulty": "medium",
+    "question": "Does Actor_9 share the same birthplace as Actress_9?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Actor_9",
+        "text": "Actor_9 was born in CityA."
+      },
+      {
+        "title": "Actress_9",
+        "text": "Actress_9 was born in CityB."
+      }
+    ]
+  },
+  {
+    "qid": "yn_10",
+    "difficulty": "medium",
+    "question": "Does Actor_10 share the same birthplace as Actress_10?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Actor_10",
+        "text": "Actor_10 was born in CityA."
+      },
+      {
+        "title": "Actress_10",
+        "text": "Actress_10 was born in CityA."
+      }
+    ]
+  },
+  {
+    "qid": "yn_11",
+    "difficulty": "medium",
+    "question": "Does Actor_11 share the same birthplace as Actress_11?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Actor_11",
+        "text": "Actor_11 was born in CityA."
+      },
+      {
+        "title": "Actress_11",
+        "text": "Actress_11 was born in CityB."
+      }
+    ]
+  },
+  {
+    "qid": "yn_12",
+    "difficulty": "medium",
+    "question": "Does Actor_12 share the same birthplace as Actress_12?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Actor_12",
+        "text": "Actor_12 was born in CityA."
+      },
+      {
+        "title": "Actress_12",
+        "text": "Actress_12 was born in CityA."
+      }
+    ]
+  },
+  {
+    "qid": "yn_13",
+    "difficulty": "medium",
+    "question": "Does Actor_13 share the same birthplace as Actress_13?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Actor_13",
+        "text": "Actor_13 was born in CityA."
+      },
+      {
+        "title": "Actress_13",
+        "text": "Actress_13 was born in CityB."
+      }
+    ]
+  },
+  {
+    "qid": "yn_14",
+    "difficulty": "medium",
+    "question": "Does Actor_14 share the same birthplace as Actress_14?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Actor_14",
+        "text": "Actor_14 was born in CityA."
+      },
+      {
+        "title": "Actress_14",
+        "text": "Actress_14 was born in CityA."
+      }
+    ]
+  },
+  {
+    "qid": "yn_15",
+    "difficulty": "medium",
+    "question": "Does Actor_15 share the same birthplace as Actress_15?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Actor_15",
+        "text": "Actor_15 was born in CityA."
+      },
+      {
+        "title": "Actress_15",
+        "text": "Actress_15 was born in CityB."
+      }
+    ]
+  },
+  {
+    "qid": "yn_16",
+    "difficulty": "medium",
+    "question": "Does Actor_16 share the same birthplace as Actress_16?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Actor_16",
+        "text": "Actor_16 was born in CityA."
+      },
+      {
+        "title": "Actress_16",
+        "text": "Actress_16 was born in CityA."
+      }
+    ]
+  },
+  {
+    "qid": "yn_17",
+    "difficulty": "medium",
+    "question": "Does Actor_17 share the same birthplace as Actress_17?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Actor_17",
+        "text": "Actor_17 was born in CityA."
+      },
+      {
+        "title": "Actress_17",
+        "text": "Actress_17 was born in CityB."
+      }
+    ]
+  },
+  {
+    "qid": "yn_18",
+    "difficulty": "medium",
+    "question": "Does Actor_18 share the same birthplace as Actress_18?",
+    "gold_answer": "yes",
+    "context": [
+      {
+        "title": "Actor_18",
+        "text": "Actor_18 was born in CityA."
+      },
+      {
+        "title": "Actress_18",
+        "text": "Actress_18 was born in CityA."
+      }
+    ]
+  },
+  {
+    "qid": "yn_19",
+    "difficulty": "medium",
+    "question": "Does Actor_19 share the same birthplace as Actress_19?",
+    "gold_answer": "no",
+    "context": [
+      {
+        "title": "Actor_19",
+        "text": "Actor_19 was born in CityA."
+      },
+      {
+        "title": "Actress_19",
+        "text": "Actress_19 was born in CityB."
+      }
+    ]
+  },
+  {
+    "qid": "hard_0",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Petra_0 is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra_0",
+        "text": "Petra_0 is a historical city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_1",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Machu Picchu_1 is located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Machu Picchu_1",
+        "text": "Machu Picchu_1 is a historical city in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_2",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Colosseum_2 is located?",
+    "gold_answer": "Mediterranean",
+    "context": [
+      {
+        "title": "Colosseum_2",
+        "text": "Colosseum_2 is a historical city in Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "Italy borders the Mediterranean to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_3",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Taj Mahal_3 is located?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Taj Mahal_3",
+        "text": "Taj Mahal_3 is a historical city in India."
+      },
+      {
+        "title": "India",
+        "text": "India borders the Indian Ocean to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_4",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Great Wall_4 is located?",
+    "gold_answer": "Yellow Sea",
+    "context": [
+      {
+        "title": "Great Wall_4",
+        "text": "Great Wall_4 is a historical city in China."
+      },
+      {
+        "title": "China",
+        "text": "China borders the Yellow Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_5",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Pyramids_5 is located?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Pyramids_5",
+        "text": "Pyramids_5 is a historical city in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt borders the Red Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_6",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Stonehenge_6 is located?",
+    "gold_answer": "North Sea",
+    "context": [
+      {
+        "title": "Stonehenge_6",
+        "text": "Stonehenge_6 is a historical city in UK."
+      },
+      {
+        "title": "UK",
+        "text": "UK borders the North Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_7",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Petra_7 is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra_7",
+        "text": "Petra_7 is a historical city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_8",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Machu Picchu_8 is located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Machu Picchu_8",
+        "text": "Machu Picchu_8 is a historical city in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_9",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Colosseum_9 is located?",
+    "gold_answer": "Mediterranean",
+    "context": [
+      {
+        "title": "Colosseum_9",
+        "text": "Colosseum_9 is a historical city in Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "Italy borders the Mediterranean to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_10",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Taj Mahal_10 is located?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Taj Mahal_10",
+        "text": "Taj Mahal_10 is a historical city in India."
+      },
+      {
+        "title": "India",
+        "text": "India borders the Indian Ocean to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_11",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Great Wall_11 is located?",
+    "gold_answer": "Yellow Sea",
+    "context": [
+      {
+        "title": "Great Wall_11",
+        "text": "Great Wall_11 is a historical city in China."
+      },
+      {
+        "title": "China",
+        "text": "China borders the Yellow Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_12",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Pyramids_12 is located?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Pyramids_12",
+        "text": "Pyramids_12 is a historical city in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt borders the Red Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_13",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Stonehenge_13 is located?",
+    "gold_answer": "North Sea",
+    "context": [
+      {
+        "title": "Stonehenge_13",
+        "text": "Stonehenge_13 is a historical city in UK."
+      },
+      {
+        "title": "UK",
+        "text": "UK borders the North Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hard_14",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Petra_14 is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra_14",
+        "text": "Petra_14 is a historical city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea to the west."
+      }
+    ]
+  }
+]

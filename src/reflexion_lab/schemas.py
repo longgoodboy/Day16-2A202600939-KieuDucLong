@@ -8,18 +8,31 @@ class ContextChunk(BaseModel):
 
 class QAExample(BaseModel):
     qid: str
-    difficulty: Literal["easy", "medium", "hard"]
+    difficulty: str = "medium"
     question: str
     gold_answer: str
     context: list[ContextChunk]
 
 class JudgeResult(BaseModel):
-    # TODO: Học viên định nghĩa các trường cần thiết cho kết quả đánh giá (score, reason, ...)
-    pass
+    score: int = Field(ge=0, le=1)
+    reason: str = ""
+    missing_evidence: list[str] = Field(default_factory=list)
+    spurious_claims: list[str] = Field(default_factory=list)
+    failure_mode: Literal[
+        "none",
+        "entity_drift",
+        "incomplete_multi_hop",
+        "wrong_final_answer",
+        "looping",
+        "reflection_overfit",
+    ] = "wrong_final_answer"
+    confidence: float = Field(default=0.5, ge=0.0, le=1.0)
 
 class ReflectionEntry(BaseModel):
-    # TODO: Học viên định nghĩa các trường cần thiết cho một mục reflection (attempt_id, lesson, strategy, ...)
-    pass
+    attempt_id: int
+    failure_reason: str = ""
+    lesson: str = ""
+    next_strategy: str = ""
 
 class AttemptTrace(BaseModel):
     attempt_id: int
